@@ -13,7 +13,6 @@ class Task: Object {
     @objc dynamic var title = ""
     @objc dynamic var contents = ""
     @objc dynamic var date = Date()
-    
     //String型のcategoryを追加
     @objc dynamic var category = ""
     
